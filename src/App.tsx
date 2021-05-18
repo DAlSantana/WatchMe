@@ -89,6 +89,3 @@ export function App() {
   );
 }
 
-function handleChildClicked() {
-  throw new Error("Function not implemented.");
-}
